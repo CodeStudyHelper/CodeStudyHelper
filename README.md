@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to StudyHelper  
 
-<!--
-**CodeStudyHelper/CodeStudyHelper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This account was created with one goal: **to help students learn together**.  
 
-Here are some ideas to get you started:
+## Purpose  
+- All solutions are shared to make studying easier.  
+- Please try to **solve the problems on your own first** before checking the solutions.  
+- The aim is to support learning, not just copy answers.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Questions?  
+If something is unclear or you don’t understand a solution,  
+feel free to **open a Discussion** in the repository.  
+This way, others can also learn from your question.  
+
